@@ -1,6 +1,6 @@
 <div align="center">
   
-# Here comes @khhandrea🫠
+## Here comes khhandrea🫠
   
 <a href="https://www.python.org/" target="_blank">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
@@ -24,6 +24,13 @@
 <a href="https://pytorch.org/" target="_blank">
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=FFFFFF"/>
 </a>
+<br/>
+<a href="https://www.instagram.com/gimani02/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
+</a>
+<a href="mailto:khhandrea@kakao.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+</a>
 
 ### Interests
 
@@ -35,14 +42,6 @@
 </a>
 <a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_blank">
   <img src="https://img.shields.io/badge/RL-0081A5?style=for-the-badge&logo=openaigym&logoColor=FFFFFF"/>
-</a>
-
-### Contact
-<a href="https://www.instagram.com/gimani02/" target="_blank">
-  <img src="https://img.shields.io/badge/@gimani02-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
-</a>
-<a href="mailto:khhandrea@kakao.com" target="_blank">
-  <img src="https://img.shields.io/badge/khhandrea@kakao.com-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
 #
