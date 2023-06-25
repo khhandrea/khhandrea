@@ -14,6 +14,9 @@
 <a href="https://hub.docker.com/u/khhandrea" target="_blank">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF"/>
 </a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Mojo🔥_(soon)-2c3e50?style=for-the-badge"/>
+</a>
 <br/>
 <a href="https://gymnasium.farama.org/" target="_blank">
   <img src="https://img.shields.io/badge/Gymnasium-0081A5?style=for-the-badge&logo=openaigym&logoColor=FFFFFF"/>
