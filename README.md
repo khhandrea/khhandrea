@@ -2,20 +2,40 @@
   
 # Here comes @khhandrea🫠
   
-<a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
-<a><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=FFFFFF"/></a>
-<a><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=FFFFFF"/></a>
-<a><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF"/></a>
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+</a>
+<a href="https://jupyter.org/">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=FFFFFF"/>
+</a>
+<a href="https://colab.research.com">
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=FFFFFF"/>
+</a>
+<a href="https://hub.docker.com/u/khhandrea">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF"/>
+</a>
 <br/>
-<a><img src="https://img.shields.io/badge/Gymnasium-0081A5?style=for-the-badge&logo=openaigym&logoColor=FFFFFF"/></a>
-<a><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF"/></a>
-<a><img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=FFFFFF"/></a>
+<a href="https://gymnasium.farama.org/">
+  <img src="https://img.shields.io/badge/Gymnasium-0081A5?style=for-the-badge&logo=openaigym&logoColor=FFFFFF"/>
+</a>
+<a href="https://www.tensorflow.org/">
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF"/>
+</a>
+<a href="https://pytorch.org/">
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=FFFFFF"/>
+</a>
 
 ### Interests
 
-<a><img src="https://img.shields.io/badge/AI-70A597?style=for-the-badge&logo=openai&logoColor=FFFFFF"/></a>
-<a><img src="https://img.shields.io/badge/ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF"/></a>
-<a><img src="https://img.shields.io/badge/RL-0081A5?style=for-the-badge&logo=openaigym&logoColor=FFFFFF"/></a>
+<a href="https://en.wikipedia.org/wiki/Artificial_general_intelligence">
+  <img src="https://img.shields.io/badge/AI-70A597?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
+</a>
+<a href="https://scikit-learn.org/stable/">
+  <img src="https://img.shields.io/badge/ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/Reinforcement_learning">
+  <img src="https://img.shields.io/badge/RL-0081A5?style=for-the-badge&logo=openaigym&logoColor=FFFFFF"/>
+</a>
 
 ### Contact
 <a href="https://www.instagram.com/gimani02/">
