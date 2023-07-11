@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
-### Interests
+### Now interested in...
 
 <a href="https://en.wikipedia.org/wiki/Artificial_general_intelligence" target="_blank">
   <img src="https://img.shields.io/badge/AI-70A597?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
