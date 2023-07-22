@@ -1,6 +1,6 @@
 <div align="center">
   
-## Here comes khhandrea🫠
+## Here comes khhandrea :D
   
 <a href="https://www.python.org/" target="_blank">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
