@@ -27,7 +27,7 @@
 <a href="https://pytorch.org/" target="_blank">
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=FFFFFF"/>
 </a>
-<br/>
+<br/><br/>
 <a href="https://www.instagram.com/gimani02/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
 </a>
