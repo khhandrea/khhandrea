@@ -41,7 +41,7 @@
 </a>
 <br/>
 
-<img width=35% src="https://github-readme-stats.vercel.app/api?username=khhandrea&show_icons=true"><br/>
-<img width=35% src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=khhandrea&&layout=compact"/>
+<img width=75% src="https://github-readme-stats.vercel.app/api?username=khhandrea&show_icons=true"><br/>
+<img width=75% src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=khhandrea&&layout=compact"/>
 
 </div>
