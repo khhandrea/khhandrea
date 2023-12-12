@@ -45,5 +45,3 @@
 <img width=50% src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=khhandrea&&layout=compact"/>
 
 </div>
-
-> 저는 인공지능의 일종인 강화학습 분야에 관심이 많습니다. 최적의 action을 학습하는 agent와, 그런 agent와 상호작용하게 되는 environment를 구현해야 하는 강화학습은 성공적인 학습을 위해 훨씬 미세한 조정을 수없이 반복해야 합니다. 하지만 이런 강화학습의 environment와 agent의 학습 방법 조정에 대한 analysis나 design, testing의 분야는 아직 거의 찾아볼 수 없습니다. 한 학기동안 소프트웨어 공학적 시선으로 강화학습을 연구해왔고, 개인적인 프로젝트 내에서 따라갈 수 있는 일련의 소프트웨어 공학적 프로세스를 발전시키는 중입니다. 이를 저의 장기로 내세워, 향후 회사나 연구실에서도, 또 제 도움을 받은 모든 사람들이 강화학습 분야의 안정적인 기획과 개발을 진행할 수 있도록 시스템을 구축하기 위해 노력할 것입니다.
