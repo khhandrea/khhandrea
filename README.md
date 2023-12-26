@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=C%2B%2B&logoColor=FFFFFF"/>
 </a>
 <a href="https://www.modular.com/mojo" target="_blank">
-  <img src="https://img.shields.io/badge/(🔥_Mojo)_🙏-2c3e50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔥_(Mojo_🙏)-2c3e50?style=for-the-badge"/>
 </a>
 
 <b>Tech</b><br/>
