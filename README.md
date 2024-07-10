@@ -1,4 +1,4 @@
-# Please read khhandrea🙂
+# Read khhandrea
 
 **Familiar with**
 
