@@ -1,6 +1,8 @@
 # Read khhandrea
 
-Korean AI Researcher
+May who read me be happy!
+
+I'm a Korean AI researcher.
 
 **Language**
 
@@ -18,6 +20,4 @@ Korean AI Researcher
 <img src="https://img.shields.io/badge/🤖%20Robotics-00465B?style=for-the-badge&logoColor=FFFFFF" height="28"/>
 <img src="https://img.shields.io/badge/💻%20Embedded-41454A?style=for-the-badge&logoColor=FFFFFF" height="28"/>
 <img src="https://img.shields.io/badge/Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=FFFFFF" height="28"/>
-
-<a href="https://solved.ac/khhandrea"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=khhandrea" height="28"/></a>
-
+<a href="https://solved.ac/khhandrea"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=khhandrea"/></a>
